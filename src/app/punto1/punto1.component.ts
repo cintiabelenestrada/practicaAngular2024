@@ -13,7 +13,7 @@ export class Punto1Component implements OnInit {
 // defini una variable title que luego la llamo en la vista
   productos=  [
     { nombre: 'Auricular Gamer Logitech', descripcion: 'Color Negro Modelo G733 Micrófono integrado Tipo de conector inalámbrico', img: 'audicular.webp', precio: 4500.5},
-    { nombre: 'JOYSTICK  PC USB G807', descripcion: 'El Saturn es el joystick cableado ideal, analógicos, vibración y compatibilidad son solo algunas de sus características.', img: 'joystick.jpeg', precio: 2000.99},
+    { nombre: 'JOYSTICK  PC USB G807', descripcion: 'El Saturn es el joystick cableado ideal, analógicos, vibración y compatibilidad son solo algunas de sus características.', img: 'joystick.png', precio: 2000.99},
     { nombre: 'Monitor Gamer 22"', descripcion: 'Color : NegroTamaño de panel : 22"Curvo/Plano : PlanoColores : 16.7MTipo de panel : IPSResolución : 1920 x 1080s', img: 'monitor.jpeg', precio: 200.999},
     { nombre: 'Cooler Cpu Watercooler Gamemax Iceburg 360 Rainbow 295W', descripcion: 'Color Negro Modelo G733 Micrófono integrado Tipo de conector inalámbrico', img: 'cooler.jpeg', precio: 4500.5},
     { nombre: 'Teclado Gamer HyperX Alloy Origins', descripcion: 'Tamaño del enter : GrandeRetroiluminación del teclado : RGB', img: 'teclado.jpeg', precio: 10000.99},
